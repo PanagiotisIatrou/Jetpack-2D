@@ -1,7 +1,7 @@
 # Jetpack-2D
 Simple Jetpack for 2D platformers! It also includes functionality for a fuel bar!
 
-# Implementation:
+# How to Implement:
 1) Drag the Jetpack2D.unitypackage
 2) Done!
 
